@@ -6,8 +6,8 @@
 > pkg install nodejs
 > pkg install git
 > pkg install bash
-> git clone https://github.com/alonecans/pinkyself.git
-> cd pinkyself
+> git clone https://github.com/Dewagumay/dewabot.git
+> cd dewabot
 > bash install.sh
 > npm install
 > node nuy
