@@ -1,4 +1,4 @@
-## Pinky Self
+## Dewa Bot
 
 ```bash
 > termux-setup-storage
