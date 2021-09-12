@@ -9,6 +9,6 @@
 > git clone https://github.com/Dewagumay/dewabot.git
 > cd dewabot
 > bash install.sh
-> npm install
-> node nuy
+> npm audit fix
+> npm start / scan qr
 ```
